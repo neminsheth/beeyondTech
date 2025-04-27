@@ -55,3 +55,14 @@ This application uses the following technologies:
 
 
 
+<img width="1425" alt="Screenshot 2025-04-27 at 5 42 40 PM" src="https://github.com/user-attachments/assets/4af21179-a75d-4cd9-a213-5b286092b66a" />
+<img width="1264" alt="Screenshot 2025-04-27 at 5 43 49 PM" src="https://github.com/user-attachments/assets/f31ae738-1fbe-403b-a38d-b527727e8edd" />
+<img width="1242" alt="Screenshot 2025-04-27 at 5 44 44 PM" src="https://github.com/user-attachments/assets/32212ada-5382-410e-8405-8f55f5804550" />
+<img width="1264" alt="Screenshot 2025-04-27 at 5 45 09 PM" src="https://github.com/user-attachments/assets/6034f380-2667-4f39-804c-db3d85b7af88" />
+<img width="1244" alt="Screenshot 2025-04-27 at 5 45 29 PM" src="https://github.com/user-attachments/assets/84200414-471e-4719-8369-27108fa50111" />
+<img width="1269" alt="Screenshot 2025-04-27 at 5 46 07 PM" src="https://github.com/user-attachments/assets/6afb2d6b-ba79-4611-9427-7557fccdbe5e" />
+<img width="747" alt="Screenshot 2025-04-27 at 5 46 24 PM" src="https://github.com/user-attachments/assets/89a1a3cc-3e9e-489c-aff5-95f7bf956cf2" /><img width="1349" alt="Screenshot 2025-04-27 at 5 46 43 PM" src="https://github.com/user-attachments/assets/4aca4d6d-9fdc-4260-8156-e7742b809471" />
+<img width="1243" alt="Screenshot 2025-04-27 at 5 47 08 PM" src="https://github.com/user-attachments/assets/683b589e-d96a-4f7a-bd85-6900a15f9f27" />
+<img width="878" alt="Screenshot 2025-04-27 at 5 47 53 PM" src="https://github.com/user-attachments/assets/e9f46e88-5ed3-4624-a72c-30b5878d9801" />
+<img width="1171" alt="Screenshot 2025-04-27 at 5 48 22 PM" src="https://github.com/user-attachments/assets/25a84b48-940b-42e8-bdfb-9ccb718af2ba" />
+<img width="1256" alt="Screenshot 2025-04-27 at 5 48 50 PM" src="https://github.com/user-attachments/assets/b5b9f716-5cfc-483d-badd-a77d2874c088" />
