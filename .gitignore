@@ -1,0 +1,46 @@
+# Node modules
+/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+/client/.env
+/server/.env
+# Dependency directories
+/client/node_modules/
+/server/node_modules/
+
+# Build output
+/dist/
+/build/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# npm package lock files
+package-lock.json
+
+# MongoDB data files (in case you use local MongoDB for development)
+*.sqlite
+*.db
+
+# Docker files (if not needed)
+docker-compose.override.yml
+.docker/
+
+# Coverage directory (if you use testing with coverage)
+coverage/
+
+# Next.js (if you are using Next.js for the client-side)
+.next/
+
+# Build artifacts
+*.tgz
