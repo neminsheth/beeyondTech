@@ -36,7 +36,7 @@ class NavigationMenu extends React.PureComponent {
             />
           )}
         </div>
-        <div className='menu-body'>
+        {/*<div className='menu-body'>
           <Container>
             <h3 className='menu-title text-uppercase'>Shop By Category</h3>
             <nav role='navigation'>
@@ -56,7 +56,7 @@ class NavigationMenu extends React.PureComponent {
               </ul>
             </nav>
           </Container>
-        </div>
+        </div>*/}
       </div>
     );
   }
