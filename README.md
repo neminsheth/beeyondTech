@@ -119,4 +119,8 @@ npm run dev
 
 ```
 
+<<<<<<< HEAD
 >>>>>>> d7b83d6 (Fresh clean start - MERN Ecommerce)
+=======
+# ecommerce
+>>>>>>> a8a19c1 (first commit)
